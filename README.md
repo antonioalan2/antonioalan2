@@ -4,10 +4,10 @@
 - 😄 Pronouns: ele / dele
 
 <a href="https://github.com/antonioalan2/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antonioalan2&theme=vue-dark&show_icons=true&locale=pt-br&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antonioalan2&theme=vue-dark&show_icons=true&locale=pt-br" />
 </a>
 <a href="https://github.com/antonioalan2/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioalan2&layout=compact&langs_count=8&card_width=200&theme=vue-dark&locale=pt-br&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioalan2&layout=compact&langs_count=8&card_width=200&theme=vue-dark&locale=pt-br" />
 </a>
 
 <div style="display: inline_block"><br>
