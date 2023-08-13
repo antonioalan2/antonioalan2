@@ -2,14 +2,7 @@
 
 - 📓 Atualmente estou estudando Html, Css, JavaScript & iniciando Python!
 - 😄 Pronouns: ele / dele
-
-<a href="https://github.com/antonioalan2/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=antonioalan2&theme=vue-dark&show_icons=true&locale=pt-br" />
-</a>
-<a href="https://github.com/antonioalan2/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioalan2&layout=compact&langs_count=8&card_width=200&theme=vue-dark&locale=pt-br" />
-</a>
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
